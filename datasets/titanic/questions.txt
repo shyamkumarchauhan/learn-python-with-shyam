@@ -1,0 +1,7 @@
+How many Male and Female has travelled ?
+How many senior citizens have travelled (persons whose age is > 58) ?
+Get the count of passengers in each class?
+How many people have expeneded more than 200 currency ?
+How many passengers have survived in that ship?
+How many male and female passengers have surivived?
+How many male senior citizens and female senior citizens have survived ?
